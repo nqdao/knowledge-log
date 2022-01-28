@@ -5,3 +5,8 @@ Little Python tips that don't need much explanation.
 ```
 tuples.sort(key=lambda x: x[i])
 ```
+## Enumerate list to iterate through index and value
+```
+for index, value in enumarate(list_x):
+   ...
+```
